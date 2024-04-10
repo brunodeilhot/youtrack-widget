@@ -1,0 +1,26 @@
+{
+  "key": "youtrack-widet",
+  "name": "Youtrack Widget",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Bruno Deilhot <contact@brunodeilhot.dev>",
+  "applicationName": "YouTrack",
+  "dependencies": {
+    "YouTrack": ">=2024.1",
+    "Hub": ">=2024.1"
+  },
+  "products": {
+    "Hub": ">=2024.1",
+    "Upsource": ">=2024.1",
+    "YouTrack": ">=2024.1"
+  },
+  "view": {
+    "fadeOut": true,
+    "defaultWidth": 3,
+    "defaultHeight": 2
+  },
+  "capabilities": {
+    "popups": true,
+    "topNavigation": true
+  }
+}
