@@ -2,7 +2,10 @@
 
 ## Description
 
-This is the basis of a custom widget for Youtrack.
+I realised, during research I made to develop my own widgets, that most of the information and boilerplate provided by Jetbrains is outdated.
+So I created this repository in order to help people get started with a more up to date project using Vite, React with functional components and Ring-UI.
+
+This repository can be used as a template so you don't need to fork it.
 
 ## Installation
 
